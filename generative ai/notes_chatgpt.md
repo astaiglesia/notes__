@@ -188,6 +188,10 @@ GPT3 has an *3096 token limit*
 > [] create prompt templates!
 
 
+<br>
+<hr>
+<br>
+
 ## Prompt Engineering
 <see guide for more details>
 - good prompt criteria
@@ -197,58 +201,124 @@ GPT3 has an *3096 token limit*
 - prompt revisions
 
 
+<br>
+<hr>
+<br>
+
 ## Prompt Frameworks
 <see guide for examples and more details>
 
-> Shot Prompting: injecting prompt w/ params and ref data (aka shots)
+> SHOT PROMPTING: priming prompts w/ params and ref data injections (aka shots)
     - types: [zero, one, multi-shot]
     formula: 'using xyz as reference ...'
 
-> Chain of Thought Prompting: model explains answers step by step
+
+
+<br>
+
+> CHAIN OF THOUGHT PROMPTING: add transparency to the model with step by step reasoning included in the response
     formula: 'let's think step by step'
 
-> Tabular Format Prompting: creating tables
+
+
+<br>
+
+> TABULAR FORMAT PROMPTING: creating tables
     formula: 
         - query
         - 'what diff categories can your answer can be broken down to for more descriptiveness'
         - 'create a table including the original answer separated into diff columns per those categories'
 
 
-> Ask Before Answer Prompting: guide model to ask for clarifications before giving an answer, adding accuracy and specificity
+
+<br>
+
+> ASK BEFORE ANSWER PROMPTING: guide model to ask for clarifications before giving an answer, adding accuracy and specificity
     formula: 
         - 'you are..... but before you answer, I want you to ask  questions about..."
         - 'please ask any questions you have so that i can improve my prompt before you complete your task'
 
-> Fill in the Blank Prompting: encourages deeper thought processes, learning and communication
+
+<br>
+
+> FILL IN THE BLANK PROMPTING: encourages deeper thought processes, learning and communication
     formula:
         - <see guide>
 
-> Perspective Prompting: broaden your understanding with a comprehensive view of a topic for more informed decisions and nuanced understanding of complex topics
 
-> Constructive Critic Prompting: provide objective and expert feedback, highlight areas for improvement and offer constructive criticism
+<br>
 
-> Comparative Prompting: highlight key similarities and diffs for more informed decisions and deeper understanding of strengths, weaknesses and tradeoffs
+> PERSPECTIVE PROMPTING: broaden your understanding with a comprehensive view of a topic for more informed decisions and nuanced understanding of complex topics
 
-> Reverse Prompting: reverse engineer content
+
+
+<br>
+
+> CONSTRUCTIVE CRTITIQUE PROMPTING: provide objective and expert feedback, highlight areas for improvement and offer constructive criticism
+
+
+
+<br>
+
+> COMPARATIVE PROMPTING: highlight key similarities and diffs for more informed decisions and deeper understanding of strengths, weaknesses and tradeoffs
+
+
+
+<br>
+
+> REVERSE PROMPTING: reverse engineer content... what prompt would generate a provided sample text
+
+
+<br>
 
 *these establish a standardized format to optimize framign and performance*
-> RGC Prompting
-> I Want You To Act As Prompting
+<br>
 
+> RGC PROMPTING
+
+
+<br>
+
+> I WANT YOU TO ACT AS PROMPTING: asking the model to assume a specific persona
+
+<br>
+<hr>
+<br>
 
 ## [] Simplify Complexity, Proofread & Reorganize Data   31m
 
+<br>
+<hr>
+<br>
 
 ## [] Content Creation, Social Media, Copywriting, SEO, & Video Scripts    50m
+
+
+<br>
+<hr>
+<br>
+
+
 ## [] Learn, Research and Prepare    60m
+
+<br>
+<hr>
+<br>
+
 ## [] Use Cases, Spreadsheets, and Training GPT    17m
-## [] 
-## []
-## []
-## []
-## []
-## []
-## []
+
+<br>
+<hr>
+<br>
+
+## [] AI powered search, chat and image creation    17m
+
+<br>
+<hr>
+<br>
+
+## [] Code Generation, Algorithms, Debugging, and Documentation     66m
+
 
 
 
