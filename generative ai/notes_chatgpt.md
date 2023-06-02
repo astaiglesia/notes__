@@ -36,7 +36,8 @@
 [OpenAI Playground](https://platform.openai.com/playground)
     
     the playground provides additional parameters, presets, layouts and fine grained control to effect our output
-some addtl funcinality in the playground
+
+some addtl functionality in the playground
 > [insert]
 > remove [insert]
 > fix grammar // more specifically
@@ -88,8 +89,12 @@ some addtl funcinality in the playground
 
 *Consider the output* 
     
-    If you don’t like your results, refine your prompt to be as specific as possible.
-    You have to work WITH chatGPT to get the answers that you want
+    If you don’t like your results, refine your prompt to be as specific as possible 
+    aka => 
+        gold in == gold output
+        garbage in == garbage output
+
+    You have to work WITH chatGPT to get the output that you want
 
 https://github.com/f/awesome-chatgpt-prompts
 https://github.com/f/awesome-chatgpt-prompts/blob/main/prompts.csv
@@ -99,8 +104,18 @@ https://github.com/f/awesome-chatgpt-prompts/blob/main/prompts.csv
 
     The choice of modifier you use will greatly impact the quality of your outputs
 
-> What would I not think of on this topic
-> What are some uncommon or lesser used approaches to this problem
+> Qualifiers
+> Adjectives
+> Adverbs
+> Intensifiers
+> Negatives
+> Number words
+> Time words
+> Place words
+> Degree words
+
+> What would I not think of on this topic?
+> What are some uncommon or lesser used approaches to this problem?
 > Give me something original around this topic that some people believe to be untrue
 
 
@@ -147,6 +162,78 @@ GPT3 has an *3096 token limit*
 <br>
 
 ## [] Prompt Engineering & Prompting Guide   66m
+<hr>
+
+## a specific limitation to note
+> current cutoff date for chat gpt training data is 09/2021
+
+    this means that responses are only 'accurate' to that date ->
+    i.e.
+    - chatgpt is NOT an online search tool like google
+    - static information like the laws of thermodynamics or pythagorean theorem WILL be correct
+    - newer data like financial or sporting statistics from 2023 or the latest version of React will NOT be included in response synthesis
+
+**to incorporate data that the AI was NOT trained on...**
+> <prompt_priming> => inject / copy and paste the data or links to data into the conversation
+> browser extensions exist 
+
+
+## your output is only as good as the data the model was trained on...
+
+**... and the prompts the user provides**
+
+> the better the prompt, the better the output
+
+
+> [] create prompt templates!
+
+
+## Prompt Engineering
+<see guide for more details>
+- good prompt criteria
+- main prompting steps
+- prompt priming
+- simple prompt starters
+- prompt revisions
+
+
+## Prompt Frameworks
+<see guide for examples and more details>
+
+> Shot Prompting: injecting prompt w/ params and ref data (aka shots)
+    - types: [zero, one, multi-shot]
+    formula: 'using xyz as reference ...'
+
+> Chain of Thought Prompting: model explains answers step by step
+    formula: 'let's think step by step'
+
+> Tabular Format Prompting: creating tables
+    formula: 
+        - query
+        - 'what diff categories can your answer can be broken down to for more descriptiveness'
+        - 'create a table including the original answer separated into diff columns per those categories'
+
+
+> Ask Before Answer Prompting: guide model to ask for clarifications before giving an answer, adding accuracy and specificity
+    formula: 
+        - 'you are..... but before you answer, I want you to ask  questions about..."
+        - 'please ask any questions you have so that i can improve my prompt before you complete your task'
+
+> Fill in the Blank Prompting: encourages deeper thought processes, learning and communication
+    formula:
+        - <see guide>
+
+> Perspective Prompting: broaden your understanding with a comprehensive view of a topic for more informed decisions and nuanced understanding of complex topics
+
+> Constructive Critic Prompting: provide objective and expert feedback, highlight areas for improvement and offer constructive criticism
+
+> Comparative Prompting: highlight key similarities and diffs for more informed decisions and deeper understanding of strengths, weaknesses and tradeoffs
+
+> Reverse Prompting: reverse engineer content
+
+*these establish a standardized format to optimize framign and performance*
+> RGC Prompting
+> I Want You To Act As Prompting
 
 
 ## [] Simplify Complexity, Proofread & Reorganize Data   31m
