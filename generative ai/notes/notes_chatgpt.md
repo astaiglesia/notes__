@@ -161,10 +161,10 @@ GPT3 has an *3096 token limit*
 <hr>
 <br>
 
-## [] Prompt Engineering & Prompting Guide   66m
+## Prompt Engineering
 <hr>
 
-## a specific limitation to note
+**a specific limitation to note**
 > current cutoff date for chat gpt training data is 09/2021
 
     this means that responses are only 'accurate' to that date ->
@@ -188,11 +188,6 @@ GPT3 has an *3096 token limit*
 > [] create prompt templates!
 
 
-<br>
-<hr>
-<br>
-
-## Prompt Engineering
 <see guide for more details>
 - good prompt criteria
 - main prompting steps
@@ -285,7 +280,40 @@ GPT3 has an *3096 token limit*
 <hr>
 <br>
 
-## [] Simplify Complexity, Proofread & Reorganize Data   31m
+## [wip] Simplify Complexity, Proofread & Reorganize Data   31m
+   generative ai can parse through, digest and process data points and information at great scale and depth, from a multitude of perspectives and approaches - INCLUDING those which they may either be unaware of, don't know how to implement and/or unable to be handled by current resources or constraints
+     
+    
+- some example tasks data processing
+    *summarization* 
+    provide a brief and concise cummary of the information, highlighting key points and main ideas / themes / style
+
+    *paraphrasing* 
+    restate the information in a different form, while retaining the same meaning and key information
+
+    *bullet points*
+    condesnse the information into a list of key takeaways as bullet points
+
+    *keyword extraction*
+    identify and list the key terms and phrases from the information
+
+    *simplification*
+    express the information at the comprehension level of a high school student | of a 5th grader | of a toddler
+
+    *visual representation*
+    generate a visual representation of the information (as a scatterplot | histogram | pie chart | 3d chart...)
+
+    *comparison*
+    compare the information to similar concepts or ideas to make it easier to understand
+
+    *highlighting important information*
+    emphasize teh most critical parts of the information
+
+
+    *providing context*
+    provide additional in formation or background to provide context to your response and make it more comprehsible
+    
+
 
 <br>
 <hr>
@@ -300,6 +328,9 @@ GPT3 has an *3096 token limit*
 
 
 ## [] Learn, Research and Prepare    60m
+
+
+
 
 <br>
 <hr>
