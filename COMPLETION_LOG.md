@@ -51,18 +51,28 @@ retrospectives on our daily successes: celebrate the wins!
 
 06.05.2023
 
-    [] type(scope): subject
-      -> 
-    [] type(scope): subject
-      -> 
-    [] type(scope): subject
-      -> 
+    [x] algos(data structures): re-engage ds_queues 
+      -> super rusty... need to seriously dedicate more time
+      ->
+
+    [x] profdev(resources): review recommended resources for devs
+      -> found some great stuff
+      -> helped init long term planning
+      -> some great resources to go through --> resource mgmt days?
+
+    [x] profdev(planning): init sprint framework doc
+      -> begin laying out sprint priorities
+
+    [x] training(node-mastery): add npm refresher notes
+      -> added clarity to package-lock.json versioning
+      -> not much more - pretty standard basic sruff
+
+    [wip] training(react-mastery): concurrent rendering
+      -> proper introduction to suspense
+      -> need to convert error handling to make use of suspense
     
 
 06.06.2023
-
-    [] type(scope): subject
-      -> 
     [] type(scope): subject
       -> 
     [] type(scope): subject
