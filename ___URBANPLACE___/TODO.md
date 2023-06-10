@@ -20,20 +20,83 @@
 > * remember that final signage designations should occur much later down the road as we will let the community dictate the direction we take with the main restaurant space
 > * while I am open to being convinced otherwise, regardless of any other final selections, my preference as vision author at this point is urbanplace. i will only be swayed by arguments made by architect or generally design inclined... 
 
-[] begin 
-## CASE STUDIES
-why i'm here and doing this
+[wip] begin case studies
+## CASE STUDIES - an identity forming vision board  [#[] this should be iterated to the use case standard for opening any and all presentations#]
+first and foremost - this is an argument for why i'm here doing all this
 > ****
-> **for more detailed info on how i'm uniquely qualified to do this please refer to the organizationl bios. that said:
->  - **i'm looking to project a modern urban identity within the increasingly gentrified and dense city community which I grew up in since birth and have a hugely vested interest in providing my input in what direction the neighborhood I was born and raised in takes with the redevelopment of our childhood home**
-> - **as a family of immigrant and first gen construction professionals that moved into and has owned the property for over 50 years, we not only understand urban planning and identity better than most, we have literally witnessed the neighborhood's evolution live and in real time and can each tell a lifetime of stories about living in jersey city. St.John's all through grammar school. Prep & ASA for high school...<add more>**
+
+> - **we, the core organizational team, are a family of immigrants and first gens that moved into the property at 61 Cottage St in the late 70's and have owned it for over 50 years we have literally witnessed the neighborhood's evolution live and in real time and can each tell a lifetime of stories about living in jersey city. St.John's all through grammar school. Prep & ASA for high school...<add more> if nothing else, this is our childhood home and we, as with any longtime resident, deserve a say in how our community develops**
+>
+> - **MOREOVER =) as a family with builders combining over 80 years of construction administration at all project scales in the tri-state region and across the country, with an aggregate value likely in the $trillions. we understand better than most understand the benefits of smart and effective urban planning and development AND while we do have the construction expertise to self-administer the project, we can lean a support staff and consults consisting of industry professionals we've personally worked with across our  decades in the industry**
+>
+
+
+
+
+
+>  - **our vision is multi-threaded operation that aims to provide the sorely needed services, local-life options and personality to the increasingly dense and vibrant city neighborhood, just itching for more options to actually live IN Journal Square.  We want to help drive our neighborhood persona and be proud be a part of what makes Journal Square a neighborhood that's always comes up in any apartment hunter's search flow**
+> all our residents, particularly those in our amazingly beautiful and equally tall municipal neighbors that are now spotted all throughout the journal square zone (within a 10 minute walking radius.
+>     - The residences aim to provide that same demographic with alternative, smaller scale but with the modern urban architecture and building program that adds great social value'** 
+>     - the project property has at least a dozen new construction highrises along with countless renovations, and smaller developments) with a demographic we believe 100% aligns with our target
+>     - The very community which I grew up in since birth and have a hugely vested interest in providing my input in what direction the neighborhood I was born and raised in takes with the redevelopment of our childhood home
+>
+
+
+
+
+
+
+
+
 > - **if anybody can represent an organic and authentic jersey city image - past, present AND future, I can. we know we have this in the bag with a vision that will be:**
 >   - 100% compliant with the redev plan's objectives and goals
 >   - in particular, taking architectural cues from the surrounding neighborhood and historical elements we feel intimitely tied to
 >   - provide the neighborhood with much needed services and a community where the locals can walk to, hang out and be locals
+>
+> **please refer to the [organizationl bios]() for details and creds
 
-> please note the following as points of reference in the architecture and business patterns that inspire me in this venture
-> *
+
+the following points of reference should provide a framework the urbanplace mindspaces    [wip] init from ideaboard [] architect likely to iterate
+<br>
+
+## **urban development & styles** 
+> neighborhoods and mixed use urban developments whose personas, design cues and mixed use neighborhood & business patterns inspire this vision 
+- Holesovice - Prague
+- Arts District - Los Angeles
+- Belltown, Capitol Hill, Pioneer Sq - Seattle
+- Cow's Hollow and Marina retail corridor - San Francisco
+
+
+
+
+<br>
+<br>
+<hr>
+
+> **we also understand the need for an architecural uniformity to tie the neighborhoods together**  [] init a pitch for redev plan ammendment 
+- for this reason, and as the first property to develop along the final row of properties on the southside of cottage st between kennedy blvd and summit ave, we propose a plan ammendment to apply to these remaining row houses to more closely align with the extg and proposed predominant building facade and roof lines for the vast majority of the street, while promoting the maintainenance of the historically significant individual, non-corporate, personalized feel to the neighborhood and encouraging the development of a mixed use persona (it would be nice to have a row of restaurants for locals to choose from and increase the walkability factor of the street and surrounding streets):
+  - new developments in noted area shall be allowed and encouraged to have a front facade adjoining the right of way(zero setback) if ground floor retail is employed
+  - with this option - full lot length construction may be allowed through 2-3 floors, provided a secondary means of egress is provided for the area above the main floor AND beyond the ordinances stipulated max form ROW of 70', as well as automated fire suppression throughout those levels
+  - the max height is raised by 1 story to be 4 stories @ 44'
+  - the elevator requirement is removed on single-lot, 4 story developments
+
+
+
+<hr>
+<br>
+<br>
+
+
+
+
+
+
+
+<br>
+
+## **cafe culture**         []  def trim and splice out a vision write up
+> that old school - low, key evening, no rush vibe, something that is generally lacking in the greater nyc metro area, blended with a modern, industrial vibe so we're not reliving an episode of Friends ... these example of amazing cafe cultures may be varied in execution but all drive the vibe to my vision. hip, modern, artisinal, relaxed, urban industrial found in  architectural and business patterns that have inspire this vision. As an older millenial, I myself am solidly in our target demographic. its just a natural given that new york is and always the central hub of the universe. there's no way around that - but we need an army of places like mine to bring the up to speed massive rise in development. I'm not some corporate suburban vision planner, i'm an local urbanite that's only ever lived in densely populate, mixed use areas. I've traveled extensively and have actively sought out cafe cultures - and I know that the Journal Square persona will benefit greatly from quality, local social hubs as is being proposed her... and really as it always has. even with rise of the grove street life, journal sq residents still had to hop in an uber or on the path to get anywhere interesting.  urbancafe is here to help start bridging that gap. these are my people, this is my home... i know what we need and how to deliver it.
+
 
 
 [] move to orgwriteup.vision and reword to reflect verbiage in the master plan
