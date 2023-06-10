@@ -8,7 +8,7 @@ a mixed-rental/owner condo property providing townhouse, bi-level loft-style con
 > *urbancafe*
 in lieu of amenities, a mixed use cafe and lifestyle concept resides in the platform construction. successfully implementions encountered in california and prague (vnitroblock), the multi-aoned core business will appeal to the incoming demographic while the multi-zoned approach to managing the narrow width property is both echoed in the residential construction while also mazimizing revenue streams by crossing multiple demographics. 
 
-this vision is driven by the belief that the neighborhood will maintain the current demographic of early to mid career professionals seeking an urban life that isn't incessantly manhattan - as all outskirt 'hipster' neighborhoods like Williamsburg, LA's Art's District, and Holesovice in Prague that begin as urban renewal projects and develops a higher end market for those that stick around. Jersey City's own Newport and Paulus Hook areas have seen this trajectory with the Heights developing its own persona... I believe that Journal Square will develop somewhere between the two
+our vision is driven by the belief that the neighborhood will maintain the current demographic of early to mid career professionals seeking an urban life that isn't incessantly manhattan - as all outskirt 'hipster' neighborhoods like Williamsburg, LA's Art's District, and Holesovice in Prague that begin as urban renewal projects and develops a higher end market for those that stick around. Jersey City's own Newport and Paulus Hook areas have seen this trajectory with the Heights developing its own persona... I believe that Journal Square will develop somewhere between the two
 
 
 touchpoints:
@@ -109,8 +109,8 @@ please see the [urbancafe concept for more details](#urbancafe)
 [international procurement - moe elshafi](#customs)
 
 > construction consultants : concept development and RFP construction
-[arch - anthony moya](#arch)                                                    <anthony.moya>
-[engineering - ???](#eng)                                                       <>
+[arch - anthony moya, Helen Ma, Sandra Toste](#arch)                                                    <anthony.moya>
+[engineering - Tom, Sree](#eng)                                                       <>
 [lighting - sung song](#lighting)                                                       <>
 [greenscaping - omar](#eng)                                                       <>
 [sutainability - alfred sta. iglesia](#sustainability)
