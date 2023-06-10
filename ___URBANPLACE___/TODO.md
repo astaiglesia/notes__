@@ -1,3 +1,10 @@
+
+
+[] Zoning Analysis due diligence
+
+
+//----------------------------------
+
 [] iterate on revenue stream
   [] build a better worksheet to easily compare options
   [] project truer operating costs
