@@ -1,9 +1,9 @@
-# Organizational Vision
+# URBANPLACE.Vision
 
-> *urbanplace*
+> *urbanhome*
 a mixed-rental/owner condo property providing townhouse, bi-level loft-style condo alternatives to the neighborhood's skyline. the residential build targets the burgeoning middle income market who love the area, want the luxury without the highrise feel or need for a complex of amenities. cool, modern, minimal with polished concrete, wood, steel, large/ full height glazing. pricepoint is slightly above the neighborhood but the developmental trajectory of the neighborhood that we would like to drive is incorporated into the vision
 
-> *urbancafe*
+> *urbanbrew*
 in lieu of amenities, a mixed use cafe and lifestyle concept resides in the platform construction. successfully implementions encountered in california and prague (vnitroblock), the multi-aoned core business will appeal to the incoming demographic while the multi-zoned approach to managing the narrow width property is both echoed in the residential construction while also mazimizing revenue streams by crossing multiple demographics. 
 
 this vision is driven by the belief that the neighborhood will maintain the current demographic of early to mid career professionals seeking an urban life that isn't incessantly manhattan - as all outskirt 'hipster' neighborhoods like Williamsburg, LA's Art's District, and Holesovice in Prague that begin as urban renewal projects and develops a higher end market for those that stick around. Jersey City's own Newport and Paulus Hook areas have seen this trajectory with the Heights developing its own persona... I believe that Journal Square will develop somewhere between the two

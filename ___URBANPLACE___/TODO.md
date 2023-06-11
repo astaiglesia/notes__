@@ -97,11 +97,16 @@ the following points of reference should provide a framework the urbanplace mind
 ## **cafe culture**         []  def trim and splice out a vision write up
 > that old school - low, key evening, no rush vibe, something that is generally lacking in the greater nyc metro area, blended with a modern, industrial vibe so we're not reliving an episode of Friends ... these example of amazing cafe cultures may be varied in execution but all drive the vibe to my vision. hip, modern, artisinal, relaxed, urban industrial found in  architectural and business patterns that have inspire this vision. As an older millenial, I myself am solidly in our target demographic. its just a natural given that new york is and always the central hub of the universe. there's no way around that - but we need an army of places like mine to bring the up to speed massive rise in development. I'm not some corporate suburban vision planner, i'm an local urbanite that's only ever lived in densely populate, mixed use areas. I've traveled extensively and have actively sought out cafe cultures - and I know that the Journal Square persona will benefit greatly from quality, local social hubs as is being proposed her... and really as it always has. even with rise of the grove street life, journal sq residents still had to hop in an uber or on the path to get anywhere interesting.  urbancafe is here to help start bridging that gap. these are my people, this is my home... i know what we need and how to deliver it.
 
+cafedu
+Kavárna V Sedmém Nebi
+Vnitroblock
 
+chelsea market
+tin building
+urbanspace
 
-[] move to orgwriteup.vision and reword to reflect verbiage in the master plan
-while the initial plan is to launch as a retail cafe & restaurant, my final vision is to modernize and *re-create and modernize the neighborhood hub where friends have always gotten together to be fed by my cooking, enjoy great music and food, hang out, play games, lounge about... that my house has and, with this project, will always will be*
-- to this effect, with only the effort needed to reach out to each individual, we can literally have hundreds of jersey city residents (past and present) sign off that they have done any, and likely all, of these things, and in that house. if this business existed when I was a child, the place would probably be landmarked by now. 
+**that spot in brussels**
+
 
 
 ## ORGANIZATIONAL TASKS
