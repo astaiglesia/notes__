@@ -1,6 +1,4 @@
-
-
-# retail plan
+# retail program 
 ----------------------------
 
 ## Program Areas
