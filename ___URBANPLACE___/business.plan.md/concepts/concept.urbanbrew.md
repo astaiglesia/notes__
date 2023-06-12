@@ -3,6 +3,20 @@ coffeehut alcove | beer + wine | artisinal food hall | grab n go market | event 
 
 
 ## our  vision and organizational philosophy
+
+> **tl;dr**: 
+> multi-faceted event space + retail + coworking cafe business model => vnitroblock
+> lead interior design => vnitroblock
+> lead narrow cafe success and kitchen space inspiration ==> mudd
+> lead street frontage design ==> mudd
+> lead brunch and buzz model ==> mudd
+> lead premium coffee brands ==> [intelligentsia, groundwork, mudd]
+> 
+> lead reservations business model => cafedu
+
+
+
+
 to be a multi-purpose foodery, market and cafe social hub, encompassing the spirit of the use case neighborhoods and establishments in our visionboard.
 
 
@@ -52,7 +66,7 @@ to help share our idea, here are some concept user stories
 - as i reach the edge of the alcove, i notice a set of stairs heading the sub-level RR's
 - I'm also greeted by some sort of local artist's work alongside a couple of small pop-ups from local artisans
   - one is food related, the other is some sort of lifetyle products
-  
+
 - 
 
 > ## the patio
