@@ -1,6 +1,6 @@
 # Helpful Advice & Resources 
 
-[approach](#keys) | [collections](#collections) |  [people](#people)  | [concepts](#concepts)
+[approach](#keys) | [collections](#collections) |  [people](#people)  | [concepts](#concepts) | [tech](#tech) | [commits](#commits)
 
 Hey Phil!
 
@@ -145,3 +145,12 @@ https://dev.to/lydiahallie/series/3341
 > **NodeJS**
 > to understand and work the non-React portions of Next it's important to realize that Next is running Node under the hood. If nothing else, you should at least understand all the concepts that surround Node
 - [Docs are always a good place to start - Node has GREAT documentation]()
+
+
+
+<h2 id="commits"> good commit practices </h2>
+<hr>
+
+I recently found this [this](https://dev.to/hornet_daemon/git-commit-patterns-5dm7 article and like the commit structure it suggests. Whether you ultimately use it or not, I think overall, it's a good read for a high level understanding of commits you can use to develop your own convention.
+The biggest keys though are to stay consistent, concise yet descriptive and keep your commits small
+
